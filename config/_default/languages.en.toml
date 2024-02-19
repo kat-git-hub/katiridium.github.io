@@ -1,0 +1,13 @@
+# config/_default/languages.en.toml
+
+
+[params.author]
+name = "Ekaterina Chapkina"
+image = "img/author.jpg"
+favicon = "static/favicon.ico"
+headline = "Aspiring to Automate and Develop in Python"
+links = [
+  {github = "https://github.com/kat-git-hub"},
+  {linkedin = "https://www.linkedin.com/in/ekaterina-chapkina-a83b0725a/"},
+
+]
